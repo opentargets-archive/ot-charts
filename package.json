@@ -6,6 +6,9 @@
   "author": "Gareth Peat",
   "license": "Apache-2.0",
   "private": false,
+  "dependencies": {
+    "lodash.sortby": "^4.7.0"
+  },
   "devDependencies": {
     "@team-griffin/install-self-peers": "^1.1.1",
     "babel": "^6.23.0",
