@@ -71,6 +71,7 @@
   },
   "peerDependencies": {
     "d3": "^5.5.0",
+    "polished": "^2.1.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-measure": "^2.1.0"
