@@ -41,7 +41,7 @@
     "react-styleguidist": "^7.1.0"
   },
   "scripts": {
-    "build": "babel lib -d build",
+    "build": "babel lib -d build --ignore *.spec.js",
     "build:watch": "babel lib -w -d build",
     "eslint": "eslint . --fix --ext .js",
     "version": "yarn build",
