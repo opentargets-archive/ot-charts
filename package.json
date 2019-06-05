@@ -1,6 +1,6 @@
 {
   "name": "ot-charts",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "description": "Open Targets charting library",
   "main": "build/index.js",
   "contributors": [
