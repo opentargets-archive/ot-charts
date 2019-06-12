@@ -10,7 +10,8 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
-    "lodash.sortby": "^4.7.0"
+    "lodash.sortby": "^4.7.0",
+    "react-sizeme": "^2.6.7"
   },
   "devDependencies": {
     "@team-griffin/install-self-peers": "^1.1.1",
